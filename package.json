@@ -1,0 +1,17 @@
+{
+  "name": "oops-product",
+  "version": "1.0.0",
+  "description": "object orient concepts with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "keywords": [
+    "OOPS",
+    "object",
+    "oriented",
+    "programminh\\"
+  ],
+  "author": "vraj patel",
+  "license": "ISC"
+}
